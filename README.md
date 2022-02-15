@@ -26,10 +26,6 @@ I'm Philip, Fullstack developer from Switzerland. I'm working on web-projects, l
 [![Reactive Badge](https://img.shields.io/badge/-RxJs-B7178C?style=for-the-badge&labelColor=black&logo=reactivex&logoColor=B7178C)](#) 
 [![NPM Badge](https://img.shields.io/badge/-NPM-DD0031?style=for-the-badge&labelColor=black&logo=npm&logoColor=B7178C)](#) 
 <br><br>
-
-If you're here to pass your time, why not give [staysafe](https://netqube.itch.io/corona-runner) a try?
-[![Staysafe](images/banner.png)](https://netqube.itch.io/corona-runners)
-
 ### A Few Quick Facts
 <li>🔭 I’m currently working on <a href="https://netqube.ch">Netqube</a>.</li>
 <li>🧐 Learning about frontend engineering with <strong>Angular</strong>, <strong>NoSQL</strong>, and a bit of <strong>dApps</strong>.</li>
@@ -47,6 +43,9 @@ If you're here to pass your time, why not give [staysafe](https://netqube.itch.i
 <li>💬 Get paid in crypto <a href="https://netqube.ch">Post</a>.</li>
 <li>💬 Build a Blockchain App (dApp) <a href="https://netqube.ch">Post</a>.</li>
 <br><br>
+
+If you're here to pass your time, why not give [staysafe](https://netqube.itch.io/corona-runner) a try?
+[![Staysafe](images/banner.png)](https://netqube.itch.io/corona-runner)
 
 ### Where To Find Me
 
